@@ -1,0 +1,1595 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Majang-dong",
+        "District": "Seongdong-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0357358361244,
+          37.57572025522641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Yangjae-dong Branch",
+        "District": "Seocho-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0319592861783,
+          37.49404558438046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Wangsimni",
+        "District": "Seongdong-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0309293180111,
+          37.57109441494524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Seongsan-dong Branch",
+        "District": "Mapo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.917495632203,
+          37.56678534329932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Guro Venture Center Branch",
+        "District": "Guro-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.895865845272,
+          37.48966545437718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Moraenae",
+        "District": "Seodaemun-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9099425190688,
+          37.58433581792749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Sinjeongnegeori Station",
+        "District": "Yangcheon-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8522643017093,
+          37.5342584181288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Mapo Station Branch",
+        "District": "Mapo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9429015004171,
+          37.54841413845173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Sindang-dong",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0143126266718,
+          37.57780589197905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Hakdong Intersection Branch",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.039208066989,
+          37.5237354277209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Doksan-dong",
+        "District": "Geumcheon-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8989561919527,
+          37.4830576252409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Bomun-dong",
+        "District": "Seongbuk-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0184324993403,
+          37.58868878370504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "Kookmin Bank Daehakro Branch",
+        "District": "Jongno-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9964598451081,
+          37.59521775506357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Oryu Station Branch",
+        "District": "Guro-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8399046837036,
+          37.50593891546109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Seodaemun",
+        "District": "Seodaemun-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9614409274255,
+          37.57943842715889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Shin Gil-seo",
+        "District": "Yeongdeungpo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8962096101737,
+          37.51846617499122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Dohwa-dong",
+        "District": "Mapo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9456480821961,
+          37.55331356927601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Gaepo-dong",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0628154008478,
+          37.50167103022466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Apgujeong Financial Center",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.027873432208,
+          37.5231448440057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Sangam",
+        "District": "Not specified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8856201917374,
+          37.59199148946623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Taepyeong-ro Branch",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97694403589,
+          37.58002075221725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Yongsan Branch",
+        "District": "Yongsan-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9590912543263,
+          37.54627468216898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Chungmuro \u200b\u200bStation Financial Center",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9899902993404,
+          37.57403466171412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "Kookmin Bank Namdaemun Branch",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97694403589,
+          37.57022508084136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Myeongdong Station",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9893036538956,
+          37.56968083909479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Daebang-ro",
+        "District": "Yeongdeungpo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9226990457542,
+          37.52286117366556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Shinyongsan Station Branch",
+        "District": "Yongsan-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9693909359977,
+          37.53974141925865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Balsan Station Branch",
+        "District": "Gangseo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8354950742702,
+          37.57022508084136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Cheongdam PB Center",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0437965644059,
+          37.5429711758577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Boramae Branch",
+        "District": "Dongjak-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9202003843498,
+          37.50648485039778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Mugyo Branch",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9792518925988,
+          37.57835130092439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Boramae",
+        "District": "Gwanak-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9243202570183,
+          37.49885858834818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Heukseok-dong",
+        "District": "Dongjak-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.962285549717,
+          37.507567703286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Apgujeong",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.027275178427,
+          37.5264139603151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Jeonnong-dong Branch",
+        "District": "Dongdaemun-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0486030825192,
+          37.58705767780088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Securities Town",
+        "District": "Yeongdeungpo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.926695211137,
+          37.5238622387462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "Kookmin Bank Mokdong Branch",
+        "District": "Yangcheon-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8649411826268,
+          37.55297432030537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Yangcheon",
+        "District": "Yangcheon-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8704343461849,
+          37.52956291567422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Euljiro 3 branch",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9919705899068,
+          37.57855512025164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Geumho-dong",
+        "District": "Seongdong-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0201356917374,
+          37.56346835504191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Namsan Town",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0066918290254,
+          37.54791936658757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Armed Forces Financial Management Group Branch Office",
+        "District": "Yongsan-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9879502670198,
+          37.53914333967963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Seoul Station",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9711914349021,
+          37.55914301432209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Sinsa-dong",
+        "District": "Seocho-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0178833251456,
+          37.51994161629675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Seoul Station Branch",
+        "District": "Yongsan-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.985610989242,
+          37.54852800415509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Yongsan",
+        "District": "Yongsan-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9615783986756,
+          37.53818371949139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Isu Station Branch",
+        "District": "Seocho-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9811477938511,
+          37.49243389567344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Seocho Station",
+        "District": "Seocho-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0093002570861,
+          37.49570267028501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank, Seoul National University of Education Station Branch",
+        "District": "Seocho-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0134201297546,
+          37.50006081388335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Gwanghwamun Station",
+        "District": "Jongno-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9732513712364,
+          37.57683133775989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Seorin-dong",
+        "District": "Jongno-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9817207448844,
+          37.57509166859118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Hannam-dong",
+        "District": "Yongsan-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0062761270554,
+          37.53923068698726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Toegye-ro Branch",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9774370183756,
+          37.5642719237218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Shinwol-dong",
+        "District": "Yangcheon-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8281268413134,
+          37.54259475348618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Yeongdeungpo Branch",
+        "District": "Yeongdeungpo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9043161776477,
+          37.52691311326745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Samseong-dong Branch",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0565867413134,
+          37.51292525520231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Dongbu Ichon-dong",
+        "District": "Yongsan-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9698436867582,
+          37.52428567308122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Sejong-ro Branch",
+        "District": "Jongno-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9808300138742,
+          37.58035583605669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Seocho-ro Branch",
+        "District": "Seocho-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0179088678911,
+          37.50004813792261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Seosomun-ro",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9746502048715,
+          37.56838322771021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Gayang Station Branch",
+        "District": "Gangseo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8545593867582,
+          37.56559222975124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Seokgwan-dong",
+        "District": "Seongbuk-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0609370230924,
+          37.61321302063489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Yongsan Park Tower",
+        "District": "Yongsan-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.969330418591,
+          37.53016614042139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Jongno Central",
+        "District": "Jongno-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9830633274861,
+          37.57861377209738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "Kookmin Bank Namdaemun",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9733309049792,
+          37.56537500570119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank, Jaenam Yang",
+        "District": "Seocho-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0438147675629,
+          37.48474878814746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "Kookmin Bank Seoul Forest Branch",
+        "District": "Seongdong-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0458561766838,
+          37.55598992410698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Namyeong-dong Branch",
+        "District": "Yongsan-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9698390975013,
+          37.55369482624412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Yeouido River Tower Branch",
+        "District": "Yeongdeungpo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.938597843693,
+          37.5195667042842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Seocho 2-dong",
+        "District": "Seocho-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0299096176689,
+          37.5021881711064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Hwayang-dong Branch",
+        "District": "Seongdong-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9756646275332,
+          37.586030457062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Yeoksam Jungang Branch",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0402092993403,
+          37.50654593618457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Donam-dong",
+        "District": "Seongbuk-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0202965814424,
+          37.60670430646517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Seorae Branch",
+        "District": "Seocho-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9976372817654,
+          37.50926941018773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Gaepo Nam",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0498223355668,
+          37.48802367799704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Samsung Town",
+        "District": "Seocho-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0196099359976,
+          37.51090344689454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Apgujeong Central Branch",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.031714620167,
+          37.5285889047409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Gasan Digital",
+        "District": "Geumcheon-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8836541379358,
+          37.49238226970034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Namseong Station",
+        "District": "Dongjak-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9749779820884,
+          37.49510626036132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Cheongdam Station Branch",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9262261555107,
+          37.52342987318152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Mokdong 8 Complex",
+        "District": "Yangcheon-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8712945199302,
+          37.53377620448301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Mia Station",
+        "District": "Not specified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0278496813347,
+          37.63770430925496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Hwigyeong-dong",
+        "District": "Dongdaemun-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.060808662683,
+          37.60126437668328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Banpo Station Branch",
+        "District": "Not specified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.962328290535,
+          37.5075335702864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Eungam Station",
+        "District": "Eunpyeong-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9124932466156,
+          37.61486345521943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Mokdong Station",
+        "District": "Yangcheon-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8637414200379,
+          37.53595419662488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Changsin-dong",
+        "District": "Jongno-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0146046983448,
+          37.57332222112212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Gupabal Station",
+        "District": "Eunpyeong-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9191102948493,
+          37.63892255144369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Yeongdeungpo-gu Office Station",
+        "District": "Yeongdeungpo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8966272983448,
+          37.52725954271342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Wondang",
+        "District": "Deogyang-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8373770903866,
+          37.65842743392014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Byeokje Branch",
+        "District": "Deogyang-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8622804676642,
+          37.68963059103111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Police Headquarters Branch",
+        "District": "Seodaemun-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9675910750463,
+          37.56448247204919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Ssangmun Station",
+        "District": "Dobong-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0354868676642,
+          37.65004320489265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Jongno 3-ga",
+        "District": "Not specified"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9911449523239,
+          37.57155330127673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Hwagok-dong Branch",
+        "District": "Gangseo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8478248443657,
+          37.53117467589379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Changdong Branch",
+        "District": "Dobong-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0506519676642,
+          37.65338584042222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Yeongdong",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0433824830045,
+          37.51120010494301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Gangseo Branch",
+        "District": "Gangseo-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8514912523239,
+          37.55476458963129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "Kookmin Bank Pyeongchang-dong Branch",
+        "District": "Jongno-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9671942290254,
+          37.6068502645868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Central Branch",
+        "District": "Jung-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9922258216432,
+          37.56478270421097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Janghanpyeong Station Branch",
+        "District": "Dongdaemun-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0640446216433,
+          37.56267009994137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Gireum New Town",
+        "District": "Seongbuk-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0223280676642,
+          37.60356789824876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Bongcheon Station",
+        "District": "Gwanak-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9428050136851,
+          37.48287509297845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Apgujeong-dong Branch",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0363512676642,
+          37.52914232682112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Mokdong Complex 7",
+        "District": "Yangcheon-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.8704054216433,
+          37.52870749897113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bank": "Kookmin Bank",
+        "Branch Name": "KB Kookmin Bank Shinnonhyeon Station Branch",
+        "District": "Gangnam-gu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.0238907443656,
+          37.50780854520757
+        ]
+      }
+    }
+  ]
+}
